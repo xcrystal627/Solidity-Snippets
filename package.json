@@ -1,0 +1,6 @@
+{
+  "name": "solidity-snippets",
+  "dependencies": {
+    "@remix-project/remixd": "^0.6.9"
+  }
+}
